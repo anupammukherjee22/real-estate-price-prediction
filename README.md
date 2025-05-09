@@ -1,4 +1,4 @@
-# Real Estate Price Prediction 
+# Machine Learning based Real Estate Price Prediction 
 
 This project develops a machine learning model to predict real estate prices based on key property features like location, size (in sqft), number of bedrooms, bathrooms, and more. It includes extensive data cleaning, feature engineering, outlier removal, and comparison of multiple regression models including Linear, Ridge, Lasso, SVM, Random Forest, and XGBoost. Evaluation metrics such as MAE, MSE, R², Precision, Recall, F1 Score, and AUC are used to compare performance.
 
