@@ -46,12 +46,12 @@ This project develops a machine learning model to predict real estate prices bas
 ## Research Paper
 
 Published at IEEE ICISC 2024  
-🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10677797)
+[Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10677797)
 
 ---
 
 ## Author
 
 **Anupam Mukherjee**  
-📧 anupammukherjee2003@gmail.com  
+anupammukherjee2003@gmail.com  
 [LinkedIn](https://linkedin.com/in/anupammukherjee03)
