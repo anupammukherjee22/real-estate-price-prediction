@@ -1,10 +1,10 @@
-# 🏠 Real Estate Price Prediction (Bengaluru)
+# Real Estate Price Prediction 
 
 This project develops a machine learning model to predict real estate prices based on key property features like location, size (in sqft), number of bedrooms, bathrooms, and more. It includes extensive data cleaning, feature engineering, outlier removal, and comparison of multiple regression models including Linear, Ridge, Lasso, SVM, Random Forest, and XGBoost. Evaluation metrics such as MAE, MSE, R², Precision, Recall, F1 Score, and AUC are used to compare performance.
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `model.ipynb` — End-to-end modelling pipeline with preprocessing, feature engineering, training, and visualisation.
 - `bengaluru_house_prices.csv` — Housing dataset.
@@ -12,7 +12,7 @@ This project develops a machine learning model to predict real estate prices bas
 
 ---
 
-## 🧠 Algorithms Used
+## Algorithms Used
 
 - Linear Regression  
 - Ridge Regression  
@@ -23,7 +23,7 @@ This project develops a machine learning model to predict real estate prices bas
 
 ---
 
-## 📊 Features Engineered
+## Features Engineered
 
 - Price per square foot  
 - BHK extraction  
@@ -33,7 +33,7 @@ This project develops a machine learning model to predict real estate prices bas
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 - Accuracy (R² Score)  
 - Mean Absolute Error (MAE)  
@@ -43,14 +43,14 @@ This project develops a machine learning model to predict real estate prices bas
 
 ---
 
-## 📌 Research Paper
+## Research Paper
 
 Published at IEEE ICISC 2024  
 🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10677797)
 
 ---
 
-## 🔗 Author
+## Author
 
 **Anupam Mukherjee**  
 📧 anupammukherjee2003@gmail.com  
